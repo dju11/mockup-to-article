@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+At this point I have learned how to control the creation of HTML elements on a webpage.  This is essentially the "content skeleton" that is then styled by CSS and given functionality through JavaScript.  Having been shown a few different ways of approaching these projects, its clear that there is a benefit to planning out the strategy in advance.  The simple HTML elements are relatively intuitive, although I am trying to get a better grasp on where and when to use some of the new HTML 5 implementations.  One of the biggest strategies so far has been using official and unofficial documentation and reading other developers commentaries on best practices.  
